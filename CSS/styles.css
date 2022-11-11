@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+hr{
+    border-color: blanchedalmond;
+    border-style: dotted none none;
+    border-width: 5px;
+    width:15%;
+}
+
+h1, h2, h3 {
+    color: powderblue;
+}
