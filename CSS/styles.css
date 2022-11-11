@@ -11,3 +11,21 @@ hr{
 h1, h2, h3 {
     color: powderblue;
 }
+#experience{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 65%;
+}
+
+#experience td, #experience tr {
+    border: 1px solid rgba(221, 221, 221, 0.335);
+    padding: 8px;
+  }
+  #experience th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #1470a944;
+    color: black;
+  }
+  #experience tr:hover {background-color: #ddd;}
